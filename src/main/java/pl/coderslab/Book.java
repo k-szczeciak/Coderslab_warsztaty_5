@@ -1,3 +1,5 @@
+package pl.coderslab;
+
 public class Book {
     long id;
     String isbn;
